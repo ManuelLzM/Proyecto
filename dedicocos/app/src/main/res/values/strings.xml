@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">dedicocos</string>
+    <string name="lblNombre">Nombre Completo</string>
+    <string name="lblFecha">Fecha nacimiento</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="lblTelefono">Télefono</string>
+    <string name="lblEmail">E-mail</string>
+    <string name="lblDescripcion">Descripción Contacto</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="lblConfirmar">Confirmar datos</string>
+    <string name="btnEditarNuevamente">Editar datos</string>
+</resources>
